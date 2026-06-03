@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="transferer_donnees_glooko">
+    <title>transferer_donnees_glooko</title>
+    <shortdesc>Cette procédure explique comment transférer les données de vos appareils de gestion
+        du diabète dans l'application Glooko XT.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>CLiquez sur l'onglet "Mes appareils".</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez sur "Ajouter un appareil". </cmd>
+            </step>
+            <step>
+                <cmd>Choisissez le type d'appareil à synchroniser.</cmd>
+            </step>
+            <step>
+                <cmd>Suivez les instructions à l'écran.</cmd>
+            </step> 
+            <step>
+                <cmd>Cliquez sur "Sauvegarder".</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

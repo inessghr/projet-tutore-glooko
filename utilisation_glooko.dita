@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="utilisation_glooko">
+    <title>Utiliser Glooko XT</title>
+    <conbody>
+        <section><title>Utilisation prévue</title>
+            <p>Glooko XT® Mobile est destiné aux personnes atteintes de diabète. La population de
+                patients visée est constituée de personnes atteintes de diabète.</p>
+        </section>
+        <section><title>Avantages cliniques</title>
+            Les patients qui utilisent Glooko XT® peuvent bénéficier des avantages cliniques
+                suivants :
+                <ul>
+                <li>Amélioration du contrôle glycémique</li>
+                <li>Amélioration de l'A1C</li>
+                <li>Amélioration durable de la glycémie</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

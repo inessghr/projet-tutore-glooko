@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creer_compte_glooko">
+    <title>creer_compte_glooko</title>
+    <shortdesc>Cette procédure décrit les étapes de création d'un compte Glooko XT.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Téléchargez l'application Glooko XT depuis votre boutique d'applications.</cmd>
+            </step>
+            <step>
+                <cmd>Ouvrez l'application.</cmd>
+            </step>
+            <step>
+                <cmd>Autorisez l'accès au Bluetooth s'il vous est demandé.</cmd>
+            </step>
+            <step>
+                <cmd>Entrez votre adresse e-mail.</cmd>
+            </step>
+            <step>
+                <cmd>Entrez le code à 4 chiffre reçu par mail.</cmd>
+            </step>
+            <step>
+                <cmd>Renseignez un mot de passe.</cmd>
+            </step>
+        </steps>
+        <result>Vous avez maintenant accès à votre compte sur l'application Glooko XT.</result>
+    </taskbody>
+</task>
