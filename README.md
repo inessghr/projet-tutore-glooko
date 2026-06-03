@@ -1,1 +1,1 @@
-# projet-tutore-glooko
+Mise à jour de la documentation DITA de Glooko XT® comprenant l’ajout de prérequis, de notes d’aide, d’avertissements réglementaires et d’informations complémentaires sur l’application afin d’améliorer la clarté, l’expérience utilisateur et la conformité de la documentation.
