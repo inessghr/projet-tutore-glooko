@@ -3,10 +3,18 @@
 <concept id="glooko_description">
     <title>Commencer à utiliser Glooko XT</title>
     <conbody>
-        <p>Glooko XT® est une solution technique de télésurveillance du diabète qui
-            synchronise le taux de glucose et d’autres données médicales pertinentes issues de
-            lecteurs de glycémie, d’appareils de contrôle continu de la glycémie (CGM), de
-            stylos à insuline intelligents, de pompes à insuline, de boucles fermées hybrides et
-            d’applications mobiles “Forme et santé”. </p>
+        <section>Elle s’adresse aux personnes atteintes de  diabète de Type 1, de Type 2 ainsi
+            qu’aux femmes atteintes d’un diabète  gestationnel et les femmes de Type 1 et de Type 2
+            enceintes. Grâce aux diverses  options de visualisation, Glooko XT® permet de suivre les
+            fluctuations de données  de glycémie en fonction de divers évènements, tels que le
+            dosage d’insuline,  l’activité physique, la consommation de glucides et d’autres
+            facteurs biométriques.  Glooko XT® est accessible aux particuliers depuis son
+            application mobile Glooko XT®  ou depuis l’interface web My.GlookoXT.com.</section>
+        
+        <section>Glooko XT® est une solution technique de télésurveillance du diabète qui synchronise le
+            taux de glucose et d’autres données médicales pertinentes issues de lecteurs de
+            glycémie, d’appareils de contrôle continu de la glycémie (CGM), de stylos à insuline
+            intelligents, de pompes à insuline, de boucles fermées hybrides et d’applications
+            mobiles “Forme et santé”. </section>
     </conbody>
 </concept>

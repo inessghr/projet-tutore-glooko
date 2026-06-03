@@ -5,7 +5,7 @@
     <shortdesc>Cette procédure décrit les étapes de création d'un compte Glooko XT.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p/>
         </context>
         <steps>
             <step>
@@ -16,12 +16,20 @@
             </step>
             <step>
                 <cmd>Autorisez l'accès au Bluetooth s'il vous est demandé.</cmd>
+                <info>
+                    <note type="important">Si vous êtes télésuivi par votre médecin, nous vous
+                        recommandons d'autoriser les notifications.</note>
+                </info>
             </step>
             <step>
                 <cmd>Entrez votre adresse e-mail.</cmd>
             </step>
             <step>
                 <cmd>Entrez le code à 4 chiffre reçu par mail.</cmd>
+                <info>
+                    <note type="tip">Si vous n’avez pas reçu le code, vérifiez votre boîte de
+                        spams.</note>
+                </info>
             </step>
             <step>
                 <cmd>Renseignez un mot de passe.</cmd>
