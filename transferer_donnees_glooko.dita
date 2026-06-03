@@ -5,6 +5,7 @@
     <shortdesc>Cette procédure explique comment transférer les données de vos appareils de gestion
         du diabète dans l'application Glooko XT.</shortdesc>
     <taskbody>
+        <prereq>Connectez-vous d'abord à l'application.</prereq>
         <steps>
             <step>
                 <cmd>CLiquez sur l'onglet "Mes appareils".</cmd>
@@ -17,10 +18,14 @@
             </step>
             <step>
                 <cmd>Suivez les instructions à l'écran.</cmd>
-            </step> 
+            </step>
             <step>
                 <cmd>Cliquez sur "Sauvegarder".</cmd>
             </step>
         </steps>
+        <result>Votre équipe médicale peut maintenant consulter vos données.</result>
+        <tasktroubleshooting> Si vous n'arrivez pas à synchroniser votre appareil, vous pouvez
+            également entrer manuellement les données de vos appareils dans l’application.
+        </tasktroubleshooting>
     </taskbody>
 </task>

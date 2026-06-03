@@ -3,14 +3,21 @@
 <concept id="utilisation_glooko">
     <title>Utiliser Glooko XT</title>
     <conbody>
+        <section><note type="warning">Glooko XT® n’est pas destiné à mesurer ou interpréter les
+                données qu’il transmet, ni  à prendre des décisions automatisées concernant les
+                traitements ou à se substituer  au jugement d’un professionnel. Tous les diagnostics
+                médicaux et traitements  doivent être effectués sous la surveillance et la
+                supervision d’un professionnel de  santé qualifié. En outre, Glooko XT® n’est pas
+                une solution permettant une prise en  charge en urgence. <b> Si vous avez des
+                    inquiétudes concernant le diagnostic et les traitements actuels de votre 
+                    diabète, veuillez contacter votre professionnel de la
+            santé.</b></note></section>
         <section><title>Utilisation prévue</title>
             <p>Glooko XT® Mobile est destiné aux personnes atteintes de diabète. La population de
                 patients visée est constituée de personnes atteintes de diabète.</p>
         </section>
-        <section><title>Avantages cliniques</title>
-            Les patients qui utilisent Glooko XT® peuvent bénéficier des avantages cliniques
-                suivants :
-                <ul>
+        <section><title>Avantages cliniques</title> Les patients qui utilisent Glooko XT® peuvent
+            bénéficier des avantages cliniques suivants : <ul>
                 <li>Amélioration du contrôle glycémique</li>
                 <li>Amélioration de l'A1C</li>
                 <li>Amélioration durable de la glycémie</li>
